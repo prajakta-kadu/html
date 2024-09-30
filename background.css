@@ -1,0 +1,28 @@
+*{
+
+}
+
+.col1{
+    background-color: rgb(199, 66, 121);
+    height: 400px;
+    width: 100%;
+}
+
+.col2{
+    background-color: rgb(100, 206, 39);
+    height: 400px;
+    width: 100%;
+}
+
+.col3{
+    background-image: url(amazon1.jpg);
+    height: 400px;
+    width:100%;
+}
+
+
+.col4{
+    background-image:url(image8.jpg) ;
+    height:400px;
+    width:100%;
+}
